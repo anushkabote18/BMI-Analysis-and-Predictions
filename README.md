@@ -1,4 +1,4 @@
-# BMI-Analysis-and-Predictions
+
 # BMI Analysis & Predictive Modeling
 
 An end-to-end Machine Learning project that analyzes height and weight metrics to predict body categories and continuous numeric values. This project showcases data preprocessing, handling class imbalances, and deploying models for real-time inference.
