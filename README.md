@@ -12,6 +12,6 @@ An end-to-end Machine Learning project that analyzes height and weight metrics t
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn
 * **Environment:** Jupyter Notebook
-*
+
 
 
